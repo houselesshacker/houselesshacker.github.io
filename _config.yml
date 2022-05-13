@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+description: >- Stuff of Sherlock and Harry Du Bois
+baseurl: "/jekyll"
+url: "/"
+theme: minima
